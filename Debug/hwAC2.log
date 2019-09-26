@@ -1,0 +1,3 @@
+﻿  autocompleter.cpp
+c:\users\adrian\source\repos\hwac2\autocompleter.cpp(42): warning C4018: '<': signed/unsigned mismatch
+  hwAC2.vcxproj -> C:\Users\Adrian\source\repos\hwAC2\Debug\hwAC2.exe
